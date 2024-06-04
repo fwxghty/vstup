@@ -1,0 +1,18 @@
+@import "fontawesome5/fontawesome";
+@import "fontawesome5/brands";
+@import "fontawesome5/regular";
+@import "fontawesome5/solid";
+
+@import "bootstrap4";
+@import "hamburgers";
+
+
+// General styles
+@import 'inc/variables';
+@import 'inc/typography';
+@import 'inc/global';
+
+// Any additional imported files
+@import "inc/header";
+@import "inc/footer";
+

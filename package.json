@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "watch": "node-sass --watch assets/scss/custom.scss --output assets/css --source-map true --output-style compressed"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@fortawesome/fontawesome-svg-core": "^6.1.2"
+  }
+}
